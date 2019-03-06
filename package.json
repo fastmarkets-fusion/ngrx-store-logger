@@ -1,6 +1,6 @@
 {
   "name": "@fastmarkets-fusion/ngrx-store-logger",
-  "version": "7.0.0",
+  "version": "7.0.1",
   "description": "Advanced logging middleware for @ngrx/store. Fork of https://github.com/btroncone/ngrx-store-logger.",
   "main": "./dist/index.js",
   "scripts": {
